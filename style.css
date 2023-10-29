@@ -1,0 +1,59 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(35,35,35);
+}
+.navbar{
+    height: 130px;
+    width: 100%;
+    background: black;
+    margin-top: -35px;
+}
+.navbar h1{
+    color: red;
+    font-size: 75px;
+    font-style: bold;
+    top: -45px;
+    left: 10px;
+    position: absolute;
+    padding-bottom: 30px;
+    font-family: Impact;
+    display: block;
+    perspective: 100px;
+    perspective-origin: 50% 0;
+    transform-origin: 0 0;
+    transform: scaleX(80)rotateY(89.5deg);
+}
+.MENU{
+
+    position:absolute;
+    left: 300px;
+    top: 38px;
+    font-size: 25px;
+    color: white;
+    word-spacing:15px;
+}
+.MENU a{
+    color: white;
+    text-decoration: none;
+    word-spacing: 30px;
+}
+.menu2 a{
+    color: azure;
+    position:absolute;
+    right: 80px;
+    top: 35px;
+    font-size: 30px;
+    word-spacing: 15px;
+}
+h1{
+    color:white
+}
+table{
+    margin-left: 20px;
+}
+img{
+    margin-left: 5px;
+    width: 23%;
+}
+
